@@ -1,4 +1,4 @@
-There are three scripts included in the C3W4.R file, as well as below.
+There are three scripts included in the run_analysis.R file, as well as below.
 
 The findVar function takes the filepath of the features.txt file,
 searches it for all the mean and standard deviation variables, and 

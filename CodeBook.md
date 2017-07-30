@@ -23,7 +23,7 @@ If you wish to run the scripts, they require a similar hierarchy imposed
 by the initial zip files. Test, train, and activity (UCI HAR Dataset) folders must contain 
 their original files, names included, as these are taken as arguments.
 
-The scripts are included in the C3W4.R file, which you will have to download and source from the project.
+The scripts are included in the run_analysis.R file, which you will have to download and source from the project.
 Should you have any issue with that, or are particularly security concious, the scripts are also available
 in the ReadMe.md file in this project.
  
